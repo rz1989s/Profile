@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rz1989s
+- 👋 Hi, I’m Rheza Sulaiman
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Developing Coin Project
